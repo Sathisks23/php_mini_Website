@@ -1,0 +1,20 @@
+.posth1{
+     margin-top: 50px;
+     color: darkorange;
+}
+
+#post{
+    margin:0 auto;
+    width: 50%;
+    border: 1px solid rgba(128, 128, 128, 0.292);
+    margin-bottom: 40px;
+}
+
+#post>h1{
+   color: grey;
+}
+
+#post>img{
+    width: 100%;
+   
+}
